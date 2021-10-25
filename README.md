@@ -1,6 +1,6 @@
-# Palindrome Checker
+# COIN FLIP
 
-<p> A fullstack application that checks if the passed in text is a palindrome by building a simple api. The logic for checking this is done in the backend </p>
+<p> A fullstack application that runs a simple coin flip game with the logic on the backend </p>
 
 <h1>How It's Made:</h1>
 <p>Utilized: </p> 
@@ -10,7 +10,7 @@
         <li>CSS</li>
     </ul>
 
-<p>Users are able to pass in a word, number or phrase and the program will return a boolean determining whether it was palindrome.<p/>
+<p>Users are able to select heads or tails and a simple "coin flip" ensues.<p/>
 
 <h1>Lessons Learned:</h1>
 <p>Through building this app, I was able to learn more about building API's and using core node</p>
